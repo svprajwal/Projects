@@ -1,0 +1,7 @@
+Machine learning Regression problem, predicting the price of the laptop using brand , ram, HDD etc.
+Performed EDA on the dataset, PCA was applied for dimensionality reduction, and finally deployed the model using TKINTER library .
+Target column : Price
+predictor variables : Processor, Brand, Ram, HDD, Generation of the processor
+Algorithms used : MLR, Decision trees, Random forest, XG boost Regressor, Ada boost Regressor
+Final model used : XG Boost Regressor
+Deployed : TKINTER library 
