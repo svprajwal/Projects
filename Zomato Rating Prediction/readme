@@ -1,0 +1,4 @@
+Problem Statement: Predict the rating of a restaurant based on its features
+
+Target Variable: Rating
+Predictor Variables: Pricing, services, cuisines, location etc.
