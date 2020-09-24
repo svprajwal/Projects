@@ -1,0 +1,2 @@
+This is an imbalanced dataset, a classifier problem, where the value of 1 : 284315 and 0 : 492 .
+we perform under sampling, over sampling, Random Forest classifer, SMOTETomek   
